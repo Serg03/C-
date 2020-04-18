@@ -1,0 +1,10 @@
+C:\Users\greyer\source\repos\Вектора_Пр_3\Вектора_Пр_3\bin\Debug\Вектора_Пр_3.exe.config
+C:\Users\greyer\source\repos\Вектора_Пр_3\Вектора_Пр_3\bin\Debug\Вектора_Пр_3.exe
+C:\Users\greyer\source\repos\Вектора_Пр_3\Вектора_Пр_3\bin\Debug\Вектора_Пр_3.pdb
+C:\Users\greyer\source\repos\Вектора_Пр_3\Вектора_Пр_3\obj\Debug\Вектора_Пр_3.csprojAssemblyReference.cache
+C:\Users\greyer\source\repos\Вектора_Пр_3\Вектора_Пр_3\obj\Debug\Вектора_Пр_3.Form1.resources
+C:\Users\greyer\source\repos\Вектора_Пр_3\Вектора_Пр_3\obj\Debug\Вектора_Пр_3.Properties.Resources.resources
+C:\Users\greyer\source\repos\Вектора_Пр_3\Вектора_Пр_3\obj\Debug\Вектора_Пр_3.csproj.GenerateResource.cache
+C:\Users\greyer\source\repos\Вектора_Пр_3\Вектора_Пр_3\obj\Debug\Вектора_Пр_3.csproj.CoreCompileInputs.cache
+C:\Users\greyer\source\repos\Вектора_Пр_3\Вектора_Пр_3\obj\Debug\Вектора_Пр_3.exe
+C:\Users\greyer\source\repos\Вектора_Пр_3\Вектора_Пр_3\obj\Debug\Вектора_Пр_3.pdb
