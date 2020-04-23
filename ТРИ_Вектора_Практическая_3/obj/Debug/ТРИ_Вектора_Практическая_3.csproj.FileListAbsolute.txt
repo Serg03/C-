@@ -1,0 +1,10 @@
+C:\Users\greyer\source\repos\ТРИ_Вектора_Практическая_3\ТРИ_Вектора_Практическая_3\bin\Debug\ТРИ_Вектора_Практическая_3.exe.config
+C:\Users\greyer\source\repos\ТРИ_Вектора_Практическая_3\ТРИ_Вектора_Практическая_3\bin\Debug\ТРИ_Вектора_Практическая_3.exe
+C:\Users\greyer\source\repos\ТРИ_Вектора_Практическая_3\ТРИ_Вектора_Практическая_3\bin\Debug\ТРИ_Вектора_Практическая_3.pdb
+C:\Users\greyer\source\repos\ТРИ_Вектора_Практическая_3\ТРИ_Вектора_Практическая_3\obj\Debug\ТРИ_Вектора_Практическая_3.csprojAssemblyReference.cache
+C:\Users\greyer\source\repos\ТРИ_Вектора_Практическая_3\ТРИ_Вектора_Практическая_3\obj\Debug\ТРИ_Вектора_Практическая_3.Form1.resources
+C:\Users\greyer\source\repos\ТРИ_Вектора_Практическая_3\ТРИ_Вектора_Практическая_3\obj\Debug\ТРИ_Вектора_Практическая_3.Properties.Resources.resources
+C:\Users\greyer\source\repos\ТРИ_Вектора_Практическая_3\ТРИ_Вектора_Практическая_3\obj\Debug\ТРИ_Вектора_Практическая_3.csproj.GenerateResource.cache
+C:\Users\greyer\source\repos\ТРИ_Вектора_Практическая_3\ТРИ_Вектора_Практическая_3\obj\Debug\ТРИ_Вектора_Практическая_3.csproj.CoreCompileInputs.cache
+C:\Users\greyer\source\repos\ТРИ_Вектора_Практическая_3\ТРИ_Вектора_Практическая_3\obj\Debug\ТРИ_Вектора_Практическая_3.exe
+C:\Users\greyer\source\repos\ТРИ_Вектора_Практическая_3\ТРИ_Вектора_Практическая_3\obj\Debug\ТРИ_Вектора_Практическая_3.pdb
