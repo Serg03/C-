@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Users\greyer\source\repos\Кинолента\Кинолента\Source1.cpp(136,17): warning C4566: символ, представленный универсальным именем символа "\u00D7", невозможно представить в текущей кодовой странице (1251)
+C:\Users\greyer\source\repos\Кинолента\Кинолента\Source1.cpp(135,25): warning C4101: d: неиспользованная локальная переменная
+  Кинолента.vcxproj -> C:\Users\greyer\source\repos\Кинолента\Debug\Кинолента.exe
