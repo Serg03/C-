@@ -1,0 +1,10 @@
+C:\Users\greyer\source\repos\4_Лаба_сделанная_из_2(Б)\4_Лаба_сделанная_из_2(Б)\bin\Debug\4_Лаба_сделанная_из_2(Б).exe.config
+C:\Users\greyer\source\repos\4_Лаба_сделанная_из_2(Б)\4_Лаба_сделанная_из_2(Б)\bin\Debug\4_Лаба_сделанная_из_2(Б).exe
+C:\Users\greyer\source\repos\4_Лаба_сделанная_из_2(Б)\4_Лаба_сделанная_из_2(Б)\bin\Debug\4_Лаба_сделанная_из_2(Б).pdb
+C:\Users\greyer\source\repos\4_Лаба_сделанная_из_2(Б)\4_Лаба_сделанная_из_2(Б)\obj\Debug\4_Лаба_сделанная_из_2(Б).csprojAssemblyReference.cache
+C:\Users\greyer\source\repos\4_Лаба_сделанная_из_2(Б)\4_Лаба_сделанная_из_2(Б)\obj\Debug\_4_Лаба_сделанная_из_2_Б_.Form1.resources
+C:\Users\greyer\source\repos\4_Лаба_сделанная_из_2(Б)\4_Лаба_сделанная_из_2(Б)\obj\Debug\_4_Лаба_сделанная_из_2_Б_.Properties.Resources.resources
+C:\Users\greyer\source\repos\4_Лаба_сделанная_из_2(Б)\4_Лаба_сделанная_из_2(Б)\obj\Debug\4_Лаба_сделанная_из_2(Б).csproj.GenerateResource.cache
+C:\Users\greyer\source\repos\4_Лаба_сделанная_из_2(Б)\4_Лаба_сделанная_из_2(Б)\obj\Debug\4_Лаба_сделанная_из_2(Б).csproj.CoreCompileInputs.cache
+C:\Users\greyer\source\repos\4_Лаба_сделанная_из_2(Б)\4_Лаба_сделанная_из_2(Б)\obj\Debug\4_Лаба_сделанная_из_2(Б).exe
+C:\Users\greyer\source\repos\4_Лаба_сделанная_из_2(Б)\4_Лаба_сделанная_из_2(Б)\obj\Debug\4_Лаба_сделанная_из_2(Б).pdb
