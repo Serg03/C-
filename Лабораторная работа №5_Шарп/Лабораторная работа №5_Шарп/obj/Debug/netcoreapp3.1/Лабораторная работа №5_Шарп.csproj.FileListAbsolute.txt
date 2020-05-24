@@ -1,0 +1,13 @@
+C:\Users\greyer\source\repos\Лабораторная работа №5_Шарп\Лабораторная работа №5_Шарп\bin\Debug\netcoreapp3.1\Лабораторная работа №5_Шарп.exe
+C:\Users\greyer\source\repos\Лабораторная работа №5_Шарп\Лабораторная работа №5_Шарп\bin\Debug\netcoreapp3.1\Лабораторная работа №5_Шарп.deps.json
+C:\Users\greyer\source\repos\Лабораторная работа №5_Шарп\Лабораторная работа №5_Шарп\bin\Debug\netcoreapp3.1\Лабораторная работа №5_Шарп.runtimeconfig.json
+C:\Users\greyer\source\repos\Лабораторная работа №5_Шарп\Лабораторная работа №5_Шарп\bin\Debug\netcoreapp3.1\Лабораторная работа №5_Шарп.runtimeconfig.dev.json
+C:\Users\greyer\source\repos\Лабораторная работа №5_Шарп\Лабораторная работа №5_Шарп\bin\Debug\netcoreapp3.1\Лабораторная работа №5_Шарп.dll
+C:\Users\greyer\source\repos\Лабораторная работа №5_Шарп\Лабораторная работа №5_Шарп\bin\Debug\netcoreapp3.1\Лабораторная работа №5_Шарп.pdb
+C:\Users\greyer\source\repos\Лабораторная работа №5_Шарп\Лабораторная работа №5_Шарп\obj\Debug\netcoreapp3.1\Лабораторная работа №5_Шарп.csprojAssemblyReference.cache
+C:\Users\greyer\source\repos\Лабораторная работа №5_Шарп\Лабораторная работа №5_Шарп\obj\Debug\netcoreapp3.1\Лабораторная работа №5_Шарп.csproj.CoreCompileInputs.cache
+C:\Users\greyer\source\repos\Лабораторная работа №5_Шарп\Лабораторная работа №5_Шарп\obj\Debug\netcoreapp3.1\Лабораторная работа №5_Шарп.AssemblyInfoInputs.cache
+C:\Users\greyer\source\repos\Лабораторная работа №5_Шарп\Лабораторная работа №5_Шарп\obj\Debug\netcoreapp3.1\Лабораторная работа №5_Шарп.AssemblyInfo.cs
+C:\Users\greyer\source\repos\Лабораторная работа №5_Шарп\Лабораторная работа №5_Шарп\obj\Debug\netcoreapp3.1\Лабораторная работа №5_Шарп.dll
+C:\Users\greyer\source\repos\Лабораторная работа №5_Шарп\Лабораторная работа №5_Шарп\obj\Debug\netcoreapp3.1\Лабораторная работа №5_Шарп.pdb
+C:\Users\greyer\source\repos\Лабораторная работа №5_Шарп\Лабораторная работа №5_Шарп\obj\Debug\netcoreapp3.1\Лабораторная работа №5_Шарп.genruntimeconfig.cache
