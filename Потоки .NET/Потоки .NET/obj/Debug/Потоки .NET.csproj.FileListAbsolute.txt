@@ -1,0 +1,10 @@
+C:\Users\greyer\source\repos\Потоки .NET\Потоки .NET\bin\Debug\Потоки.NET.exe.config
+C:\Users\greyer\source\repos\Потоки .NET\Потоки .NET\bin\Debug\Потоки.NET.exe
+C:\Users\greyer\source\repos\Потоки .NET\Потоки .NET\bin\Debug\Потоки.NET.pdb
+C:\Users\greyer\source\repos\Потоки .NET\Потоки .NET\obj\Debug\Потоки .NET.csprojAssemblyReference.cache
+C:\Users\greyer\source\repos\Потоки .NET\Потоки .NET\obj\Debug\Потоки.NET.Form1.resources
+C:\Users\greyer\source\repos\Потоки .NET\Потоки .NET\obj\Debug\Потоки.NET.Properties.Resources.resources
+C:\Users\greyer\source\repos\Потоки .NET\Потоки .NET\obj\Debug\Потоки .NET.csproj.GenerateResource.cache
+C:\Users\greyer\source\repos\Потоки .NET\Потоки .NET\obj\Debug\Потоки .NET.csproj.CoreCompileInputs.cache
+C:\Users\greyer\source\repos\Потоки .NET\Потоки .NET\obj\Debug\Потоки.NET.exe
+C:\Users\greyer\source\repos\Потоки .NET\Потоки .NET\obj\Debug\Потоки.NET.pdb
